@@ -1,0 +1,7 @@
+data/
+outputs/best_model.pth
+kaggle.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
